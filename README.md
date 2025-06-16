@@ -6,7 +6,6 @@
 
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on a dataset of used car sales to:
-
 * Assess data quality and completeness
 * Discover patterns in vehicle types, pricing, and customer behavior
 * Segment customers for marketing strategies
