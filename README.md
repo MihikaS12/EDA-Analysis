@@ -4,9 +4,7 @@
 **Date:** April 29, 2025
 **Course:** BCA (Hons.) Data Science
 
-
 ## 📌 Project Overview
-
 This project performs **Exploratory Data Analysis (EDA)** on a dataset of used car sales to:
 
 * Assess data quality and completeness
