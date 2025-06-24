@@ -88,12 +88,10 @@ Used **Elbow Method** and RFM Segmentation:
 * Cross-sell to steady buyers
 * Offer promos to one-time buyers
 
-
 ## ⚠️ Anomaly Detection
 * Detected pricing/mileage errors using **Z-score** and **Isolation Forest**
 * Found extreme entries (e.g., \$0 cars, 200,000+ KM mileage)
 * Recommended cleanup and fraud monitoring
-
 
 ## ✅ Conclusion
 This EDA highlights critical insights into the used car sales business, offering data-driven suggestions for pricing, customer targeting, and sales optimization.
