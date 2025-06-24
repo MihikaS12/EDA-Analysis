@@ -11,11 +11,9 @@ This project performs **Exploratory Data Analysis (EDA)** on a dataset of used c
 * Segment customers for marketing strategies
 * Prepare the data for potential predictive modeling
 
-
 ## 📊 Dataset Summary
 * **Records:** 10,000
 * **Features:** 24 (e.g., Car Type, Engine Power, Price, Mileage, Sale Status, etc.)
-
 
 ## 🧹 Data Preprocessing
 * **Null Handling:** Replaced missing numeric values with median or removed rows with too many nulls
